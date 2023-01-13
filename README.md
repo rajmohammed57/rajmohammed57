@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajmohammed57
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Machine Learning and Data Science
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me : Just ping me on my email: rajmohammed57@gmail.com
 
